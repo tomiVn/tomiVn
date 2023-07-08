@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Tomi Nikolov]
+# Hi there! 👋 I'm [ Tomi Nikolov ]
 
 ## Full stack Web Developer 
 
