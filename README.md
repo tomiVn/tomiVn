@@ -8,29 +8,32 @@ Currently, I am continuing my growth journey by learning about DevOps at SoftUni
 
 ## Technologies I Work With
 
+## Technologies I Work With
+
 ### Front-End:
-- Angular framework (NgRx, Material CLI, Micro, Frontends, Progressive web app)
-- Lit-Html
-- Handlebars
+- ![Angular Icon](link-to-angular-icon) Angular framework (NgRx, Material CLI, Micro, Frontends, Progressive web app)
+- ![Lit-Html Icon](link-to-lit-html-icon) Lit-Html
+- ![Handlebars Icon](link-to-handlebars-icon) Handlebars
 
 ### Back-End:
-- Express.js
-- MongoDB
-- MySQL
-- JWT
-- Bcrypt
-- Cloudinary
-- Postman
+- ![Express.js Icon](link-to-express-js-icon) Express.js
+- ![MongoDB Icon](link-to-mongodb-icon) MongoDB
+- ![MySQL Icon](link-to-mysql-icon) MySQL
+- ![JWT Icon](link-to-jwt-icon) JWT
+- ![Bcrypt Icon](link-to-bcrypt-icon) Bcrypt
+- ![Cloudinary Icon](link-to-cloudinary-icon) Cloudinary
+- ![Postman Icon](link-to-postman-icon) Postman
 
 ### Deployment:
-- Azure
-- Heroku
-- Render
-- SuperHosting
-- Cyclic
+- ![Azure Icon](link-to-azure-icon) Azure
+- ![Heroku Icon](link-to-heroku-icon) Heroku
+- ![Render Icon](link-to-render-icon) Render
+- ![SuperHosting Icon](link-to-superhosting-icon) SuperHosting
+- ![Cyclic Icon](link-to-cyclic-icon) Cyclic
 
 ### Other:
-- GitHub
-- Terraform
-- Docker
+- ![GitHub Icon](link-to-github-icon) GitHub
+- ![Terraform Icon](link-to-terraform-icon) Terraform
+- ![Docker Icon](link-to-docker-icon) Docker
+
 
