@@ -11,7 +11,7 @@ Currently, I am continuing my growth journey by learning about DevOps at SoftUni
 ## Technologies I Work With
 
 ### Front-End:
-- ![Angular Icon](link-to-angular-icon) Angular framework (NgRx, Material CLI, Micro, Frontends, Progressive web app)
+- ![Angular Icon]([link-to-angular-icon](https://skillicons.dev/icons?i=all)) Angular framework (NgRx, Material CLI, Micro, Frontends, Progressive web app)
 - ![Lit-Html Icon](link-to-lit-html-icon) Lit-Html
 - ![Handlebars Icon](link-to-handlebars-icon) Handlebars
 
