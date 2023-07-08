@@ -7,6 +7,3 @@ I am a strongly motivated and disciplined JavaScript Web Developer who is always
 Currently, I am continuing my growth journey by learning about DevOps at SoftUni. I am excited about the opportunity to expand my knowledge and skills in this field.
 
 I am actively seeking new opportunities with a creative software company that has a friendly team, where everyone shares their experiences and works hard and professionally.
-
-Feel free to reach out to me for any collaborations or opportunities!
-
